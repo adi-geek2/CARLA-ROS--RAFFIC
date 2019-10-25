@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fb8170-5da6-4c44-a7c5-699ebc145164" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/traffic_sign_bb_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/traffic_sign_bb_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ego_vehicle/config/sensors.json" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ego_vehicle/config/sensors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/config/settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/config/settings.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge.launch" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge_with_example_ego_vehicle.launch" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge_with_example_ego_vehicle.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/catkin_ws/src/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ego_vehicle/config/sensors.json" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ego_vehicle/config/sensors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/config/settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/config/settings.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge.launch" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge_with_example_ego_vehicle.launch" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/launch/carla_ros_bridge_with_example_ego_vehicle.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/sensor.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ros-bridge" />
+  </component>
+  <component name="ProjectId" id="1Rdx1MW2u11qxlWhIOnthNDCK7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fb8170-5da6-4c44-a7c5-699ebc145164" name="Default Changelist" comment="" />
+      <created>1570010558117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570010558117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ros-bridge/carla_ros_bridge/src/carla_ros_bridge/bridge.py</url>
+          <line>450</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

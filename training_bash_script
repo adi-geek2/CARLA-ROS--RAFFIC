@@ -1,0 +1,2 @@
+#!/bin/bash
+python object_detection/train.py --logtostderr --pipeline_config_path object_detection/ssd_mobilenet_v1_coco_2018_01_28/ssd_mobilenet_v1_gtsdb3.config --train_dir = object_detection/ssd_mobilenet_v1_coco_2018_01_28/train/GTSDB/TrainIJCNN2013/
